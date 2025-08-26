@@ -1,7 +1,7 @@
 # 📚 Livro
  **Fundamentos da Programação de Computadores**  
  Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos  
- (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)**
+ (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)
 
 ## 📘 Capítulo 3 - Estrutura Sequencial
 
